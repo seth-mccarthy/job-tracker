@@ -2,6 +2,12 @@
 
 A full-stack web app to track job applications throughout the hiring process.
 
+[Live Demo](https://job-tracker-tawny-eight.vercel.app)
+
+## Demo
+
+https://github.com/user-attachments/assets/7b50500e-45a6-4170-b58c-d16044397fdb
+
 ## Tech Stack
 
 - **Backend:** Java, Spring Boot, Spring Security, PostgreSQL
