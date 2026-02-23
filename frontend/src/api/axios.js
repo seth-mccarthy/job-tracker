@@ -17,5 +17,3 @@ api.interceptors.request.use((config) => {
 });
 
 export default api;
-
-VITE_API_URL=https://job-tracker-production-5b3b.up.railway.app
